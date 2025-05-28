@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38144d5ae50a0c24eaff6c5913dc6543, type: 3}
+  m_Name: PlayerInventorySO
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - quantity: 1
+    item: {fileID: 11400000, guid: c8b5e1d9ee9d20646a948a373f058ed8, type: 2}
+    equipState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 6fc9b800d0b725f4cb6aca08c0b157cd, type: 2}
+    equipState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 5537265faf5b44f4db12711d3f0be3b7, type: 2}
+    equipState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 79940876d4e4aea4f8d2afa80f1a9b39, type: 2}
+    equipState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 37ee7ca762814ca44b59a84a03646c56, type: 2}
+    equipState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 0adf0fe6f69e90c498a2495362a60935, type: 2}
+    equipState:
+    - parameter: {fileID: 11400000, guid: c9e0d39c5931d5f41912f6367d22ddb1, type: 2}
+      value: 1
+  - quantity: 1
+    item: {fileID: 11400000, guid: 322c9f84c4723d84c917ac2dbecf8414, type: 2}
+    equipState:
+    - parameter: {fileID: 11400000, guid: c9e0d39c5931d5f41912f6367d22ddb1, type: 2}
+      value: 1
+  - quantity: 1
+    item: {fileID: 11400000, guid: 2dd7e8026e903c744a7e3c43ca67cc59, type: 2}
+    equipState:
+    - parameter: {fileID: 11400000, guid: c9e0d39c5931d5f41912f6367d22ddb1, type: 2}
+      value: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 00fff32a5aec53649ba924ebaa60d2de, type: 2}
+    equipState:
+    - parameter: {fileID: 11400000, guid: c9e0d39c5931d5f41912f6367d22ddb1, type: 2}
+      value: 1
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  - quantity: 0
+    item: {fileID: 0}
+    equipState: []
+  <Size>k__BackingField: 30

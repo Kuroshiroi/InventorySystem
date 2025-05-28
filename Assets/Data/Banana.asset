@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2dc1783c7f01943903a278119156e1, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  itemTypology: 0
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: Banana
+  <Description>k__BackingField: "Banane ricche di potasio , vanno forte nelle gare
+    clandestine del regno dei Funghi \n"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 2ce42bf783a3ded4d92187b43a6f190c, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  modifiersData:
+  - statModifer: {fileID: 11400000, guid: de87b85a30a08cd4dbf8d1ef8dc47906, type: 2}
+    value: 10
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: af38bb14ab2223c4ab41217936086bf4, type: 3}
